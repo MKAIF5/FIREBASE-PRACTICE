@@ -31,5 +31,6 @@ export {
     collection,
     addDoc,
     serverTimestamp,
-    onSnapshot
+    onSnapshot,
+    db
 }
